@@ -1,7 +1,3 @@
-Poonam Varkhedi
-A13660291
-HW3
-
 This is a website dashboard that showcases the energy data from Springfield.
 
 ----

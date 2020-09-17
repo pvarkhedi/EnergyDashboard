@@ -18,7 +18,7 @@ and graphs look nice and made them easy to read.
 
 ----
 DRAWBACKS/LIMITATIONS:
-Appearance: One drawback of useing Highcharts and creating a grid was that there was a 
+Appearance: One drawback of using Highcharts and creating a grid was that there was a 
 lot of white space. Even if all the margins/padding wer eliminated there was white space.
 I think this takes away from the sophistication of the dasboard. However, it does make
 it easy to read. 
